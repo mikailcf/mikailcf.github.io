@@ -1,39 +1,26 @@
-# Site wide configuration
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: Mikail Freitas
-description: "It's me alright"
-logo: 120x120.gif
-teaser: 400x250.gif
-locale: en_US
-url: http://mikailcf.github.io
-url: http://mikail.io
-url: http://localhost:4000
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Jekyll configuration
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-markdown: kramdown
-highlighter: pygments
-gems:
-  - jekyll-sitemap
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
+paginate:         5
 
-# Site owner
-owner:
-  name: Mikail Freitas
-  web: http://mikail.io
-  email: contact@mikail.io
-  twitter: 
-  bio: "Cool dev guy."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  google:
-    plus: 
-    ad-client: 
-    ad-slot: 
-  disqus-shortname:
+# Custom vars
+version:          2.1.0
 
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+github:
+  repo:           https://github.com/poole/hyde
