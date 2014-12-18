@@ -234,10 +234,10 @@ img {
   border-radius: 5px;
 }
 .avatar {
-  border-radius: 100px;
-  margin: 0 auto;
-  /*margin-left: 100%;*/
-  /*margin-right: 100%;*/
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -.75rem;
 }
 
 /* Tables */

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="sidebar-about">
       <h1>
-        <img class="avatar" src="{{ site.baseurl }}public/avatar.jpg" alt="Mikail" style="width:200px;height:200px">
+        <img class="avatar" src="{{ site.baseurl }}public/avatar.jpg" alt="Mikail" style="width:150px;height:150px">
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
@@ -27,8 +27,9 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+<!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+      <a href="mailto:contact@mikail.io" target="_top">Contact</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

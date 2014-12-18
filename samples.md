@@ -1,17 +1,29 @@
 ---
 layout: page
-title: About
+title: "Post samples"
 ---
 
-Hi! I'm Mikail Campos Freitas!
+<div class="posts">
+  {% for post in site.posts %}
+    {% if post.super == null %}
+      <div class="post">
+        <h2 class="post-title">
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
 
-I like to code and I like video games. And when possible I try to bring them together.
+        <span class="post-date">{{ post.date | date_to_string }}</span>
 
-When it's ready, my resume will be available <a href="{{ site.baseurl }}404.html">here</a>.
+        {{ post.content }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
-I will also rewrite this page soon.
+<h2 class="page-title">This is the old About page</h2>
 
-<!-- <p class="message">
+<p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
@@ -36,4 +48,3 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
- -->
