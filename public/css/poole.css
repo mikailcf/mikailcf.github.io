@@ -233,6 +233,11 @@ img {
   margin: 0 0 1rem;
   border-radius: 5px;
 }
+.avatar {
+  border-radius: 100px;
+  /*margin-left: 100%;*/
+  /*margin-right: 100%;*/
+}
 
 /* Tables */
 table {
