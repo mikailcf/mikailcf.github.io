@@ -235,6 +235,7 @@ img {
 }
 .avatar {
   border-radius: 100px;
+  margin: 0 auto;
   /*margin-left: 100%;*/
   /*margin-right: 100%;*/
 }
