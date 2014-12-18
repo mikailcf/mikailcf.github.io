@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Mikail Freitas
 tagline:          'Developer guy'
-description:      "I'm a software developer guy! I would also say that I'm cool, but thats just me."
+description:      "Software developer guy!"
 url:              http://mikail.io
 baseurl:          /
 
