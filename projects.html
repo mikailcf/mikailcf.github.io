@@ -4,5 +4,9 @@ title: Projects
 ---
 
 <div class="page">
-  <p class="lead"><a href="{{ site.baseurl }}ar_game/">Simple AR Game</a></p>
+  {% for it_page in site.pages %}
+    {% if it_page.layout == "inner" %}
+      <p class="lead"><a href="{{ site.baseurl }}{{ it_page.type }}/">{{ it_page.title }}</a></p>
+    {% endif %}
+  {% endfor %}
 </div>
