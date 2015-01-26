@@ -6,7 +6,7 @@ super: ar_game
 
 This game project was made during the Programming Laboratory II course (the -link to castaway here- was made during Programming Laboratory I) back in 2010. It's the second course with the objective of showing the students what a bigger project looks like since most other courses are based on smaller, but by no means easier, programming exercises that focus on algorithms or problem solving.
 
-The professor that gave us the assignment is specialized in computer vision and at the time was very intered in augmented reality. With that he stabilished that all projects should ba based on AR and that people were free to make game projects if they wanted.
+The professor teaching the course was specialized in computer vision and at the time was very intered in augmented reality. With that he stabilished that all projects should ba based on AR and that people were free to make game projects if they wanted.
 
 I was in a group with two other friends but I ended up doing pretty much the whole thing by myself. What was ultimately a good thing for me given that I got to learn a lot more (with the downside of sleeping a lot less).
 
