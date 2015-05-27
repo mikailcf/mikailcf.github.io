@@ -46,6 +46,7 @@ In the videos above I did not yet manage to use anything besides simple textures
 In the next videos I show the final version of the game.
 
 To easily create levels the game simply reads descriptive matrices and build them on the fly. Some examples are:
+
 ###################
 ###################
 ###################
@@ -57,8 +58,10 @@ To easily create levels the game simply reads descriptive matrices and build the
 ###################
 ###################
 
-The game is not bound to a specific matrix size, it reads the matrix and extracts the size from it. That way I can build simple levels with far less information than needed for complex ones.
+The game is not bound to a specific matrix size, it reads the matrix and extracts the size from it. That way I can build simple levels with far less information than needed for more complex ones.
 
 <iframe width="640" height="380" src="http://www.youtube.com/embed/T6PMxGAjBeE" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="640" height="380" src="http://www.youtube.com/embed/sMptS2Nfar0" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="640" height="380" src="http://www.youtube.com/embed/TPY2e6tHm_g" frameborder="0" allowfullscreen></iframe>
