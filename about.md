@@ -7,7 +7,7 @@ Hi! I'm Mikail Campos Freitas!
 
 I like to code and I like video games. And when possible I try to bring them together.
 
-When it's ready, my resume will be available <a href="{{ site.baseurl }}404.html">here</a>.
+When it's ready, my resume will be available <a href="{{ site.baseurl }}mikail_cv_en.pdf">here</a>.
 
 I will also rewrite this page soon.
 
