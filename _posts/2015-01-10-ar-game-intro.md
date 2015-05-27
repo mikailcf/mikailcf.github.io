@@ -32,20 +32,33 @@ In the video below I show the first time I've managed to achieve a "hole" effect
 
 That was achieved by making a filter matrix that applied an "invisible" mask to the color green. So that's actually a whole cube with green outside faces.
 
+Both the graphics and physics libraries have basic objects over which they operate and in both cases those were 3D geometric objects. Of course they weren't the exact same object in the code but having these two different objects representing the same "real" thing made integrating both of those libraries just a matter of synchronizing some of these objetcs attributes. For example: the physics' ball is under the effects of gravity and collisions and that changes its position, and thus the graphics' ball position have to be synchronized to the same values otherwise we would have an invisible ball moving according to physics and a visible immovable ball.
+
 <iframe width="640" height="380" src="http://www.youtube.com/embed/l2Y8p3s_5k8" frameborder="0" allowfullscreen></iframe>
+<br>
+
+In the videos above I did not yet manage to use anything besides simple textures on the objects. In the one below I've finally found out how to do simple shadings at least (and I also added a menu). For some reason the Papervision3D standard renderer doens't handle z-buffering. It has also a more advanced renderer that does but it was incredibly slower so I only use it in my recent videos (since my current laptop is much better than the one used in theses first videos).
+
 <iframe width="640" height="380" src="http://www.youtube.com/embed/st9zMsYVs_E" frameborder="0" allowfullscreen></iframe>
 
 ### "Final" version
+
+In the next videos I show the final version of the game.
+
+To easily create levels the game simply reads descriptive matrices and build them on the fly. Some examples are:
+###################
+###################
+###################
+###################
+###################
+###################
+###################
+###################
+###################
+###################
+
+The game is not bound to a specific matrix size, it reads the matrix and extracts the size from it. That way I can build simple levels with far less information than needed for complex ones.
+
 <iframe width="640" height="380" src="http://www.youtube.com/embed/T6PMxGAjBeE" frameborder="0" allowfullscreen></iframe>
 <iframe width="640" height="380" src="http://www.youtube.com/embed/sMptS2Nfar0" frameborder="0" allowfullscreen></iframe>
 <iframe width="640" height="380" src="http://www.youtube.com/embed/TPY2e6tHm_g" frameborder="0" allowfullscreen></iframe>
-
-<!-- https://www.youtube.com/watch?v=_bcb7aV6zTg     hole
-
-https://www.youtube.com/watch?v=l2Y8p3s_5k8     physics
-
-https://www.youtube.com/watch?v=st9zMsYVs_E     shading and menu
-
-https://www.youtube.com/watch?v=T6PMxGAjBeE     qub 1 2
-https://www.youtube.com/watch?v=sMptS2Nfar0     qub 3 4
-https://www.youtube.com/watch?v=TPY2e6tHm_g     qub 5 -->
