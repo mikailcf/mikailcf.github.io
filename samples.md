@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Post samples"
+title: 
 ---
 
 <div class="posts">
