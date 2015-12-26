@@ -5,11 +5,11 @@ title: About Me
 
 Hi! I'm Mikail Campos Freitas!
 
-I like to code and I like video games. And when possible I try to bring them together.
+I like to code and I like video games.
 
-When it's ready, my resume will be available <a href="{{ site.baseurl }}mikail_cv_en.pdf">here</a>.
+Here's my <a href="{{ site.baseurl }}mikail_cv_en.pdf">resume</a>.
 
-I will also rewrite this page soon.
+I'll also rewrite this page eventually.
 
 <!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
