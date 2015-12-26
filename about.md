@@ -5,14 +5,14 @@ title: About Me
 
 Hi! I'm Mikail Campos Freitas!
 
-I like to learn.\\
+I like to learn.
 I like challenges and the growth they almost force on us. And I like to get better at what I do and know.
 
 I like to interact with people from different areas and learn about what they do, their work, their thought process. Because I think that by looking at different problems from different points of view help us come up with better and more creative solutions for problems we may face ourselves.
 
 I like to code and I like to think of solutions to problems. Be them designing a better user interface so people won't be confused using an app I've made or thinking how to make an algorithm for procedural generation of a game level that is still coherent.
 
-I like reading, watching movies and a good story.\\
+I like reading, watching movies and a good story.
 I like gaming and game development. The parts involved in it will probably have challenges of it's own as long as there is gaming in the world (such as: trying to extract the best performance of each platform while also trying to convey it's [probably stunnig] artistic style; or trying to touch people with a very good story; or just trying to innovate and do something no one has ever seen before in interactive media). And still people can achieve so much, in such different ways it's inspiring.
 
 After all that here's the good ol' <a href="{{ site.baseurl }}mikail_cv_en.pdf">resume</a>.
