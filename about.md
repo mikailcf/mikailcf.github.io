@@ -8,7 +8,7 @@ Hi! I'm Mikail Campos Freitas!
 I like to learn.</br>
 I like challenges and the growth they almost force on us. And I like to get better at what I do and know.
 
-I like to interact with people from different areas and learn about what they do, their work, their thought process. Because I think that by looking at different problems from different points of view help us come up with better and more creative solutions for problems we may face ourselves.
+I like to interact with people from different areas and learn about what they do, their work, their thought process. Because I think that by looking at different problems from different points of view we learn to come up with better and more creative solutions for problems we may face ourselves.
 
 I like to code and I like to think of solutions to problems. Be them designing a better user interface so people won't be confused using an app I've made or thinking how to make an algorithm for procedural generation of a game level that is still coherent.
 
