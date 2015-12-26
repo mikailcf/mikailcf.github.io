@@ -8,6 +8,4 @@ The Computer Graphics course was one of the courses (probably _the_ one) that I'
 
 In this project we had to model the outside of the buildings from our institute while implementing some techniques such as changing the projection matrix for shadow rendering, only rendering particles within an area around the camera, utilizing a skybox
 
-This is a test post that should show up only in Walker page and its own page, of course!
-
 <iframe width="640" height="380" src="http://www.youtube.com/embed/zhOX5e7Py6Y" frameborder="0" allowfullscreen></iframe>
