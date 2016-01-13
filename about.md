@@ -15,7 +15,7 @@ I like to code and I like to think of solutions to problems. Be them designing a
 I like reading, watching movies and a good story.</br>
 I like gaming and game development. The parts involved in it will probably have challenges of it's own as long as there is gaming in the world (such as: trying to extract the best performance of each platform while also trying to convey it's [probably stunnig] artistic style; or trying to touch people with a very good story; or just trying to innovate and do something no one has ever seen before in interactive media). And still people can achieve so much, in such different ways it's inspiring.
 
-After all that here's the good ol' <a href="{{ site.baseurl }}mikail_cv_en.pdf">resume</a>.
+After all that here's the good ol' <a href="{{ site.baseurl }}mikail_cv_en_games.pdf">resume</a>.
 
 <!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
