@@ -6,6 +6,59 @@ type: light
 
 ### Intro
 
-This game project was made during the Programming Laboratory II course (the -link to castaway here- was made during Programming Laboratory I) back in 2010. It's the second course with the objective of showing the students what a bigger project looks like since most other courses are based on smaller, but by no means easier, programming exercises that focus on algorithms or problem solving.
+My objectives developing this are to:
 
-The professor teaching the course at the time was specialized in computer vision and was very intered in augmented reality. With that he stabilished that all projects should ba based on AR and that people were free to make game projects if they wanted.
+- implement mechanics such as physics and lightning
+- learn some image processing techniques such as blur implementation
+- learn shaders
+
+This is probably going to stay a project only for learning purposes only given that I don't think I'll have the time to polish it enough to make it a real product for the public.
+
+### Description
+
+This is a 2D platformer where the player must use some lightning mechanics to traverse the world and solve puzzles.
+
+It's on very early development stages so only the basic physics and lightning parts are implemented. No mechanics are implemented yet.
+
+### Development
+
+I'm using C++ for this one, with the SFML library for graphics and input management. The physics and lightning are implemented by me, not libraries for that.
+
+Some features are:
+
+- shadows during the level
+- soft shadows with blur in the menu
+- blocks that become invisible in the shadow (_hidden blocks_)
+- block animations
+
+The levels are built based on a very text file following a very simple descriptive format.
+The level for the video below is described as:
+
+```
+# a block is defined by
+#  x y width height R G B is_hidden is_animated
+#
+# definition of an animation is basically the total time, accelerating 
+# and breaking times and the vector that defines each animation segment
+
+4 1  # number_of_blocks number_of_hidden_blocks
+1027 609 291 38 120 120 120 0 1
+3  # animation segments 
+3.5 1 0 57 -229 0.2 0.2
+3.5 1 0 312 125 0.2 0.2 
+3.5 1 0 -369 104 0.2 0.2 
+1 
+616 486 366 38 120 120 120 1 0 
+247 556 392 38 120 120 120 0 0 
+0 609 269 38 120 120 120 0 0 
+64 336 
+```
+
+And for me not to have to build a level editor I've written a simple script for Photoshop to take care of that. It reads basic layer information, like position and size, and writes an output in the exact same format the game reads. It does that based on the layer name (the name defines if it's a hidden block, animated block ou normal block).
+
+For the soft shadows in the menu I've implemented a simple radial blur based on distance from the light source. For the shadows during the level I'm using a combination of polygon drawing, shader for the radial light and rendering based on the stencil buffer.
+
+Here's a video demonstration:
+
+<iframe width="640" height="361" src="https://www.youtube.com/embed/K80JfZgXPwM" frameborder="0" allowfullscreen></iframe>
+
