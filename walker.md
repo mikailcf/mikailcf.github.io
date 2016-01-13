@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 
-super: walker
+layout: inner
+title: "Walker"
+type: walker
 ---
 
 ### Intro

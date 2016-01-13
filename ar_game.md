@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 
-super: ar_game
+layout: inner
+title: "Simple AR Game"
+type: ar_game
 ---
 
 ### Intro

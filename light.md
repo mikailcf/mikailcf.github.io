@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "2D Platformer"
+title: "Codename Light (WIP)"
 type: light
 ---
 

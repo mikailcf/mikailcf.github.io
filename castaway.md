@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 
-super: castaway
+layout: inner
+title: "Castaway"
+type: castaway
 ---
 
 ### Intro
@@ -20,7 +20,7 @@ The project was made in C with the Allegro library for graphics and input manage
 
 The survivors' movements are defined by a random function (it was a requirement), that's why they look frenetic.
 
-There was no helper function for drawing text with custom fonts on the screen, so I actually have all letters and numbers in a spritesheet and I implemented a function for drawing strings from that on the screen.
+Sprite animations are managed throught the use of a spritesheet. Also there was no helper function for drawing text with custom fonts on the screen, so I actually have all letters and numbers in a spritesheet and I implemented a function for drawing strings from that on the screen.
 
 The video below is a short demo from the project (turn annotations on):
 
