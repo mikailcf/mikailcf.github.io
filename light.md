@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Working Title 2D Platformer"
+title: "2D Platformer"
 type: light
 ---
 

@@ -22,7 +22,6 @@ The survivors' movements are defined by a random function (it was a requirement)
 
 There was no helper function for drawing text with custom fonts on the screen, so I actually have all letters and numbers in a spritesheet and I implemented a function for drawing strings from that on the screen.
 
-The video below is a short demo from the project:
+The video below is a short demo from the project (turn annotations on):
 
-(Please watch with annotations turned on)
-<iframe width="640" height="380" src="https://www.youtube.com/embed/2n1F4Ydc41E" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="424" src="https://www.youtube.com/embed/2n1F4Ydc41E" frameborder="0" allowfullscreen></iframe>

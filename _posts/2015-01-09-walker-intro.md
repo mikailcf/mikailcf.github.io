@@ -91,7 +91,6 @@ For rendering the text for the fps count and the "lightning" I just use a orthog
 
 The raindrops are small cones and are reutilized after they hit the ground.
 
-Below is a video demonstration:
+Below is a video demonstration (turn annotations on):
 
-(Please watch with annotations turned on)
-<iframe width="640" height="380" src="http://www.youtube.com/embed/8a1UOAVBPXk" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="423" src="http://www.youtube.com/embed/8a1UOAVBPXk" frameborder="0" allowfullscreen></iframe>
