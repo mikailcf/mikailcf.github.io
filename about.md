@@ -17,9 +17,6 @@ I like gaming and game development. The parts involved in it will probably have 
 
 After all that here's the good ol' <a href="{{ site.baseurl }}mikail_cv_en.pdf">resume</a>.
 
-Also it must be said that I'm passionate about my girlfriend. That's a big part of me, really.
-I love you so very, _very_ much Rhaíssa!
-
 <!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
