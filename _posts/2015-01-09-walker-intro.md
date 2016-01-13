@@ -1,11 +1,37 @@
 ---
 layout: post
-title: Description
+title: 
 super: walker
 ---
 
-The Computer Graphics course was one of the courses (probably _the_ one) that I've liked the most. The professor teching that course was known for believing that students learn more from assignments than from tests (which I also believe, since the students have the time given to them to build something, perfecting it along the way rather than memorize stuff and try to guess exactly what kind of questions will be in the test). That meant that his assisgnments were much more difficult than from almost any other professor. For example when going through the Operating Systems course with the same professor one thing we had to do was to implement some new system calls (that actually should monitor all other system calls made) on a minimalist linux kernel. And that was propably the most difficult assignment ever given to me during college!
+### Intro
 
-In this project we had to model the outside of the buildings from our institute while implementing some techniques such as changing the projection matrix for shadow rendering, only rendering particles within an area around the camera, utilizing a skybox
+The Computer Graphics course (I took it in 2012) was one of the courses that I've liked the most during college. The professor teching the course was known for believing that students learn more from assignments than from tests (something I also believe) so his assignments were harder and bigger compared to the ones from other professors.
 
-<iframe width="640" height="380" src="http://www.youtube.com/embed/zhOX5e7Py6Y" frameborder="0" allowfullscreen></iframe>
+For this project the teacher wanted us to learn how things worked beneath the curtain in OpenGL
+
+In this project we had to model the outside of the buildings from our institute while implementing some techniques such as:
+
+- changing the projection matrix for shadow rendering and orthographic rendering of text
+- only rendering particles within an area around the camera
+- skybox
+
+I was programming solo in this project, and I've only used C++ with OpenGL, no third party libraries.
+
+Some must-have features were:
+
+- shadows
+- rain with 3d raindrops
+- a skybox
+- display the frame rate
+
+Some optional features (that I implemented) were:
+
+- day and night cycle
+- fog during the rain
+- lightning bolts during the rain
+- trees
+- collision check
+
+(Please watch with annotations turned on)
+<iframe width="640" height="380" src="http://www.youtube.com/embed/8a1UOAVBPXk" frameborder="0" allowfullscreen></iframe>
