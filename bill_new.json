@@ -16,13 +16,13 @@
       },
       "_links": {
         "self": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d"
+          "href": "https://prod-accounts.bank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d"
         },
         "boleto_email": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d/boleto/email"
+          "href": "https://prod-accounts.bank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d/boleto/email"
         },
         "barcode": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d/boleto/barcode"
+          "href": "https://prod-accounts.bank.com.br/api/bills/55256cd0-10f7-4fd3-a3be-213bfe01857d/boleto/barcode"
         }
       },
       "barcode": "03394643200000389339646532300000001745800102",
@@ -34,7 +34,7 @@
           "title": "Rest Bolinha",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/551585a8-244c-4ab8-9dce-0113d465ad8e"
+          "href": "app://transaction/551585a8-244c-4ab8-9dce-0113d465ad8e"
         },
         {
           "post_date": "2015-03-31",
@@ -42,7 +42,7 @@
           "title": "Posto de Servico Dinam",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55152410-5315-4aeb-b7f3-263170767191"
+          "href": "app://transaction/55152410-5315-4aeb-b7f3-263170767191"
         },
         {
           "post_date": "2015-04-02",
@@ -50,7 +50,7 @@
           "title": "Brunetto Massa e Risot",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/551ac6d1-3c44-4f68-a404-788083f00955"
+          "href": "app://transaction/551ac6d1-3c44-4f68-a404-788083f00955"
         },
         {
           "post_date": "2015-04-07",
@@ -58,7 +58,7 @@
           "title": "Pao de Acucar Lj",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55219aaa-2b9d-40bc-a8d3-bb31f14d2382"
+          "href": "app://transaction/55219aaa-2b9d-40bc-a8d3-bb31f14d2382"
         }
       ]
     }
@@ -80,13 +80,13 @@
       },
       "_links": {
         "self": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704"
+          "href": "https://prod-accounts.bank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704"
         },
         "boleto_email": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704/boleto/email"
+          "href": "https://prod-accounts.bank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704/boleto/email"
         },
         "barcode": {
-          "href": "https://prod-accounts.nubank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704/boleto/barcode"
+          "href": "https://prod-accounts.bank.com.br/api/bills/554cc619-5998-4687-8fd3-743fd88ef704/boleto/barcode"
         }
       },
       "barcode": "03397643400001743269646532300000001745800102",
@@ -103,7 +103,7 @@
           "title": "Eolo Restaurante e Caf",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5526abd4-7439-4749-a39b-1ac6b1914d60"
+          "href": "app://transaction/5526abd4-7439-4749-a39b-1ac6b1914d60"
         },
         {
           "post_date": "2015-04-14",
@@ -111,7 +111,7 @@
           "title": "Centreville Serv",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/552b044e-acd3-4fc7-be52-07ff1624aa1e"
+          "href": "app://transaction/552b044e-acd3-4fc7-be52-07ff1624aa1e"
         },
         {
           "post_date": "2015-04-14",
@@ -119,7 +119,7 @@
           "title": "Coisa Boa",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5527ffc3-ce31-4797-8edf-112dfebb30df"
+          "href": "app://transaction/5527ffc3-ce31-4797-8edf-112dfebb30df"
         },
         {
           "post_date": "2015-04-14",
@@ -127,7 +127,7 @@
           "title": "Purpurina Of de Pizzas",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5528642e-324a-4518-a970-261d2dd7f8be"
+          "href": "app://transaction/5528642e-324a-4518-a970-261d2dd7f8be"
         },
         {
           "post_date": "2015-04-15",
@@ -135,7 +135,7 @@
           "title": "la da Venda",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/552ad24a-ee6d-41ae-9163-1d5bc05ad05d"
+          "href": "app://transaction/552ad24a-ee6d-41ae-9163-1d5bc05ad05d"
         },
         {
           "post_date": "2015-04-18",
@@ -143,7 +143,7 @@
           "title": "Stop Green",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55302f74-34f7-4dfa-927a-623c1b8de677"
+          "href": "app://transaction/55302f74-34f7-4dfa-927a-623c1b8de677"
         },
         {
           "post_date": "2015-04-18",
@@ -151,7 +151,7 @@
           "title": "Supermercados Mambo",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/553037ae-a115-46dc-97cc-cb61385575da"
+          "href": "app://transaction/553037ae-a115-46dc-97cc-cb61385575da"
         },
         {
           "post_date": "2015-04-21",
@@ -159,7 +159,7 @@
           "title": "Schoenberger Sorv",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55341952-3916-47df-8fad-7bce92626a97"
+          "href": "app://transaction/55341952-3916-47df-8fad-7bce92626a97"
         },
         {
           "post_date": "2015-04-21",
@@ -167,7 +167,7 @@
           "title": "Schoenberger Sorv",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55342ed2-0402-491d-8d46-13fd62953be8"
+          "href": "app://transaction/55342ed2-0402-491d-8d46-13fd62953be8"
         },
         {
           "post_date": "2015-04-21",
@@ -175,7 +175,7 @@
           "title": "Auto Posto Playgas",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5532c42f-5d22-426a-94f9-15ac615fc367"
+          "href": "app://transaction/5532c42f-5d22-426a-94f9-15ac615fc367"
         },
         {
           "post_date": "2015-04-23",
@@ -183,7 +183,7 @@
           "title": "Zaffari Lj 25 Bourbon",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5536b428-e638-4c50-9413-0b45189bcf42"
+          "href": "app://transaction/5536b428-e638-4c50-9413-0b45189bcf42"
         },
         {
           "post_date": "2015-04-23",
@@ -191,7 +191,7 @@
           "title": "America Bourbon",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55369f68-0230-4c03-b210-e8bbc0e49135"
+          "href": "app://transaction/55369f68-0230-4c03-b210-e8bbc0e49135"
         },
         {
           "post_date": "2015-04-24",
@@ -199,7 +199,7 @@
           "title": "Wall Street Bar",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5538554b-8379-435d-9e0f-3d947b7958ef"
+          "href": "app://transaction/5538554b-8379-435d-9e0f-3d947b7958ef"
         },
         {
           "post_date": "2015-04-28",
@@ -207,7 +207,7 @@
           "title": "Auto Posto Cerro Cora",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/553d2f73-8871-4fc0-9d89-ae2bc6de5cfd"
+          "href": "app://transaction/553d2f73-8871-4fc0-9d89-ae2bc6de5cfd"
         },
         {
           "post_date": "2015-04-28",
@@ -215,7 +215,7 @@
           "title": "Pao de Acucar Lj",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/553d2d14-9da9-41a1-8882-ff7533a0a6ed"
+          "href": "app://transaction/553d2d14-9da9-41a1-8882-ff7533a0a6ed"
         },
         {
           "post_date": "2015-04-29",
@@ -223,7 +223,7 @@
           "title": "Esso Auto Posto",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55355574-3670-4c19-aca3-48fc364992f0"
+          "href": "app://transaction/55355574-3670-4c19-aca3-48fc364992f0"
         },
         {
           "post_date": "2015-05-05",
@@ -231,7 +231,7 @@
           "title": "Casa do Espeto Pompéia",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5545189a-f16d-4938-8bd2-cb9a197900fa"
+          "href": "app://transaction/5545189a-f16d-4938-8bd2-cb9a197900fa"
         },
         {
           "post_date": "2015-05-05",
@@ -239,7 +239,7 @@
           "title": "Supermercados Mambo",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5542b9b0-d502-4022-9470-887d586d3076"
+          "href": "app://transaction/5542b9b0-d502-4022-9470-887d586d3076"
         },
         {
           "post_date": "2015-05-05",
@@ -247,7 +247,7 @@
           "title": "Ta Kombinado Pasta",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/554248d7-9fc0-4c18-8a35-6d20239f8cd3"
+          "href": "app://transaction/554248d7-9fc0-4c18-8a35-6d20239f8cd3"
         },
         {
           "post_date": "2015-05-06",
@@ -255,7 +255,7 @@
           "title": "Hellofood Intermediaca Sao Paulo Bra",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5546a598-7d1d-42c8-878c-965f35a0fa9b"
+          "href": "app://transaction/5546a598-7d1d-42c8-878c-965f35a0fa9b"
         },
         {
           "post_date": "2015-05-06",
@@ -263,7 +263,7 @@
           "title": "de Guste Cafe Ltda Sao Paulo Bra",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/554a410c-ecbc-4469-93b5-96edf1657f41"
+          "href": "app://transaction/554a410c-ecbc-4469-93b5-96edf1657f41"
         },
         {
           "post_date": "2015-05-07",
@@ -271,7 +271,7 @@
           "title": "Bar Lanches Galhardo",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5548f7de-be3e-4a42-977a-25fce7d07bab"
+          "href": "app://transaction/5548f7de-be3e-4a42-977a-25fce7d07bab"
         }
       ]
     }
@@ -291,10 +291,10 @@
       },
       "_links": {
         "barcode": {
-          "href": "https://prod-accounts.nubank.com.br/api/accounts/55085752-3dcf-42a5-870a-81eed6b08172/bills/open/boleto/barcode"
+          "href": "https://prod-accounts.bank.com.br/api/accounts/55085752-3dcf-42a5-870a-81eed6b08172/bills/open/boleto/barcode"
         },
         "boleto_email": {
-          "href": "https://prod-accounts.nubank.com.br/api/accounts/55085752-3dcf-42a5-870a-81eed6b08172/bills/open/boleto/email"
+          "href": "https://prod-accounts.bank.com.br/api/accounts/55085752-3dcf-42a5-870a-81eed6b08172/bills/open/boleto/email"
         }
       },
       "barcode": "03395646500000396279646532300000001745800102",
@@ -306,7 +306,7 @@
           "title": "Al Fanous Restaurante",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/554b8b66-0f3b-444b-9f67-2f467bd2e032"
+          "href": "app://transaction/554b8b66-0f3b-444b-9f67-2f467bd2e032"
         },
         {
           "post_date": "2015-05-12",
@@ -314,7 +314,7 @@
           "title": "Bem Brasil Grelhados",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/554d6515-669f-4214-8cab-d67113deebdb"
+          "href": "app://transaction/554d6515-669f-4214-8cab-d67113deebdb"
         },
         {
           "post_date": "2015-05-15",
@@ -322,7 +322,7 @@
           "title": "Babbo Giovanni",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55568d22-998d-47a0-a4b8-315e21b3cbda"
+          "href": "app://transaction/55568d22-998d-47a0-a4b8-315e21b3cbda"
         },
         {
           "post_date": "2015-05-15",
@@ -330,7 +330,7 @@
           "title": "Apl* Itunes.com/bill",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/555653bc-9070-49bc-ab4d-c7556db1ff34"
+          "href": "app://transaction/555653bc-9070-49bc-ab4d-c7556db1ff34"
         },
         {
           "post_date": "2015-05-15",
@@ -338,7 +338,7 @@
           "title": "Apl* Itunes.com/bill",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/55564ec1-aeb8-44cd-87d8-b1f434c03148"
+          "href": "app://transaction/55564ec1-aeb8-44cd-87d8-b1f434c03148"
         },
         {
           "post_date": "2015-05-15",
@@ -346,7 +346,7 @@
           "title": "Vitrollasfoodtruck",
           "index": 0,
           "charges": 1,
-          "href": "nuapp://transaction/5556120b-d490-4ff1-b644-2a8732a02192"
+          "href": "app://transaction/5556120b-d490-4ff1-b644-2a8732a02192"
         },
         {
           "post_date": "2015-05-15",
@@ -354,7 +354,7 @@
           "title": "Gol Tran Aereo Interne",
           "index": 0,
           "charges": 2,
-          "href": "nuapp://transaction/55540206-0099-4c01-9209-81f298dc9b93"
+          "href": "app://transaction/55540206-0099-4c01-9209-81f298dc9b93"
         }
       ]
     }
@@ -382,7 +382,7 @@
           "title": "Gol Tran Aereo Interne",
           "index": 1,
           "charges": 2,
-          "href": "nuapp://transaction/55540206-0099-4c01-9209-81f298dc9b93"
+          "href": "app://transaction/55540206-0099-4c01-9209-81f298dc9b93"
         }
       ]
     }
