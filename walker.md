@@ -6,9 +6,7 @@ type: walker
 
 ### Intro
 
-The Computer Graphics course (I took it in 2012) was one of the courses that I've liked the most during college. The professor teching the course was known for believing that students learn more from assignments than from tests (something I also believe) so his assignments were harder and bigger compared to the ones from other professors.
-
-For this project the professor wanted us to learn how things worked behind the curtain in OpenGL (e.g. how a graphics library would implement things in OpenGL). As the new API introduced with OpenGL 3.0 was still relatively new and our professor wasn't familiar with it we went with the older 2.x API.
+Another college project, for the Computer Graphics course. The idea was to make a simple 3D walking game using only OpenGL. As the new API introduced with OpenGL 3.0 was still relatively new then (2011) and our professor wasn't familiar with it we went with the older 2.x API.
 
 ### Description
 
@@ -93,4 +91,4 @@ The raindrops are small cones and are reutilized after they hit the ground.
 
 Below is a video demonstration (turn annotations on):
 
-<iframe width="640" height="423" src="http://www.youtube.com/embed/8a1UOAVBPXk" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="http://www.youtube.com/embed/8a1UOAVBPXk" frameborder="0" allowfullscreen></iframe>

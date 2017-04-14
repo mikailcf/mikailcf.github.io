@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Codename Light (WIP)"
+title: "Platformer (WIP)"
 type: light
 ---
 
@@ -54,11 +54,11 @@ The level for the video below is described as:
 64 336 
 ```
 
-And for me not to have to build a level editor I've written a simple script for Photoshop to take care of that. It reads basic layer information, like position and size, and writes an output in the exact same format the game reads. It does that based on the layer name (the name defines if it's a hidden block, animated block ou normal block).
+For me not to have to build a level editor I've written a simple script for Photoshop to take care of that. It reads basic layer information, like position and size, and writes an output in the exact same format the game reads. It does that based on the layer name (the name defines if it's a hidden block, animated block or normal block).
 
 For the soft shadows in the menu I've implemented a simple radial blur based on distance from the light source. For the shadows during the level I'm using a combination of polygon drawing, shader for the radial light and rendering based on the stencil buffer.
 
 Here's a video demonstration:
 
-<iframe width="640" height="361" src="https://www.youtube.com/embed/K80JfZgXPwM" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/K80JfZgXPwM" frameborder="0" allowfullscreen></iframe>
 

@@ -24,4 +24,4 @@ Sprite animations are managed throught the use of a spritesheet. Also there was 
 
 The video below is a short demo from the project (turn annotations on):
 
-<iframe width="640" height="424" src="https://www.youtube.com/embed/2n1F4Ydc41E" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/2n1F4Ydc41E" frameborder="0" allowfullscreen></iframe>
