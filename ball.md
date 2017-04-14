@@ -9,13 +9,15 @@ type: ball
 I've started developing this game with mainly two goals in mind:
 
 - learn Swift
-- learn how to implement some different types of procedural content generation
+- learn how to implement procedural content generation
 
-In the same way as with <a href="{{ site.baseurl }}light/">Codename Light</a> I'm making the game as a mean to learn. Given that I develop it on free time, and that that's scarce, I'll probably not have the time to polish it enough to become a realeasable product.
+In the same way as with <a href="{{ site.baseurl }}light/">Codename Light</a> I'm making the game as a mean to learn. Given that I develop it during my free time, and that it's scarce, it'll probably not going to end up getting released.
 
 ### Description
 
-As I'm in development and changing some mechanics as I go, I won't go into too much detail.
+As it's in early development and I'm changing mechanics as I go, I won't go into too much detail.
+
+The game is an infinite runner with procedural levels.
 
 Basically what you'll be able to do is jump and I intend to implement some kind of attack too. I also intend to make the level have segments. The ideia is that each segment is going to have its own characteristics such as obstacle and enemy types. Players will know they entered a new segment through a change in the color palette throughout the level (also each segment is going to have their own set of features, but I haven't decided nor implemented that yet).
 
