@@ -4,7 +4,7 @@ title: "Codename Ball (WIP)"
 type: ball
 ---
 
-### Intro
+### Intro Simple
 
 I've started developing this game with mainly two goals in mind:
 
