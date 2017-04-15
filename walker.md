@@ -6,7 +6,7 @@ type: walker
 
 ### Intro
 
-Another college project, for the Computer Graphics course. The idea was to make a simple 3D walking game using only OpenGL. As the new API introduced with OpenGL 3.0 was still relatively new then (2011) and our professor wasn't familiar with it we went with the older 2.x API.
+Another college project, for the Computer Graphics course. The idea was to make a simple 3D walking game using only OpenGL. As the new API introduced with OpenGL 3.0 was still relatively new then and our professor wasn't familiar with it we went with the older 2.x API.
 
 ### Description
 
@@ -33,9 +33,9 @@ Some optional features (that I implemented) were:
 
 ### Development
 
-The project was made wich C++ and OpengGL. No third party libraries and whatnot.
+The project was made wich C++ and OpengGL. No third party libraries.
 
-We could use libraries for loading JPEGs and 3D models and such if we wanted but I decided to do everything myself just so I could have an idea how was to implement this kind of functionality. Of course I went with a simplified version for each of these elements (I loaded RAWs and not JPEGs and I made my own 3D model format) but I think I learned what I wanted going this way.
+We could use libraries for loading JPEGs and 3D models and such if we wanted but I decided to do everything myself just so I could have an idea how difficult it was to implement this kind of functionality. Of course I went with a simplified version for each of these elements (I loaded RAWs and not JPEGs and I made my own 3D model format) but I think I learned what I wanted going this way.
 
 To illustrate the model format, here's the model for the Block B Building (blue building in the video below):
 
@@ -85,7 +85,7 @@ The facing direction of each wall is also used for collision detection purposes.
 
 The format for the textures is a RAW file with three bytes for each pixel (RGB) and the format for the masks (I implemented masking for any renderable texture) is a RAW file with one byte for each pixel (the alpha value).
 
-For rendering the text for the fps count and the "lightning" I just use a orthographic matrix for projection and for the shadows rendering you need only to make a 3D transformation on the projection matrix to make it a perspective projection from the light source point of view and projected to the ground.
+For rendering the text for the fps count and the "lightning" I just use a orthographic matrix for projection and for the shadows rendering I need only to make a 3D transformation on the projection matrix to make it a perspective projection from the light source point of view and projected to the ground.
 
 The raindrops are small cones and are reutilized after they hit the ground.
 

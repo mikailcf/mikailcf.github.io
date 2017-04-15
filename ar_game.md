@@ -6,8 +6,8 @@ type: ar_game
 
 ### Intro
 
-This game project was made during the course following the <a href="{{ site.baseurl }}castaway/">Castaway</a> course, back in 2010.
-The idea was that everyone had to make an AR-based project, game allowed.
+This game project was made during college, in the course following the <a href="{{ site.baseurl }}castaway/">Castaway</a> course, back in 2010.
+The idea was that everyone had to make an AR-based project, games allowed.
 
 ### Description
 

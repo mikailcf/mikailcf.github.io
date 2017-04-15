@@ -6,13 +6,11 @@ type: light
 
 ### Intro
 
-My objectives developing this are to:
+This is a personal project. My objectives developing this are to:
 
 - implement mechanics such as physics and lightning
 - learn some image processing techniques such as blur implementation
 - learn shaders
-
-This is probably going to stay a project only for learning purposes only given that I don't think I'll have the time to polish it enough to make it a real product for the public.
 
 ### Description
 
@@ -22,7 +20,7 @@ It's on very early development stages so only the basic physics and lightning pa
 
 ### Development
 
-I'm using C++ for this one, with the SFML library for graphics and input management. The physics and lightning are implemented by me, not libraries for that.
+I'm using C++ for this one, with the SFML library for graphics and input management. The physics and lightning are implemented by me, no extra libraries.
 
 Some features are:
 
@@ -31,7 +29,7 @@ Some features are:
 - blocks that become invisible in the shadow (_hidden blocks_)
 - block animations
 
-The levels are built based on a very text file following a very simple descriptive format.
+The levels are built based on a text file following a very simple descriptive syntax.
 The level for the video below is described as:
 
 ```

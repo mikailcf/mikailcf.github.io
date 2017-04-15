@@ -6,12 +6,10 @@ type: ball
 
 ### Intro
 
-I've started developing this game with mainly two goals in mind:
+This is a personal project. I've started developing this game with mainly two goals in mind:
 
 - learn Swift
 - learn how to implement procedural content generation
-
-In the same way as with <a href="{{ site.baseurl }}light/">Platformer</a> I'm making the game as a mean to learn. Given that I develop it during my free time, and that it's scarce, it'll probably not going to end up getting released.
 
 ### Description
 

@@ -6,7 +6,7 @@ type: castaway
 
 ### Intro
 
-This project was made during the Programming Laboratory I course. It's the first course to give students what a project is like. Before that (and mostly after too) students only have to solve programming exercises (which are not by any means easy, but are a lot more focused on the topic being studied).
+This was my first real project during college. My previous programming experiences then were only exercises or algorithms implementations.
 
 ### Description
 
@@ -20,7 +20,7 @@ The project was made in C with the Allegro library for graphics and input manage
 
 The survivors' movements are defined by a random function (it was a requirement), that's why they look frenetic.
 
-Sprite animations are managed throught the use of a spritesheet. Also there was no helper function for drawing text with custom fonts on the screen, so I actually have all letters and numbers in a spritesheet and I implemented a function for drawing strings from that on the screen.
+A spritesheet was used for animations. Also there was no helper function for drawing text with custom fonts on the screen, so I actually had all letters and numbers in another spritesheet and I had to implement a function for drawing strings using those sprites.
 
 The video below is a short demo from the project (turn annotations on):
 
