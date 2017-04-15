@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Simple AR Game"
+title: "AR Game"
 type: ar_game
 ---
 
