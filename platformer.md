@@ -58,5 +58,5 @@ For the soft shadows in the menu I've implemented a simple radial blur based on 
 
 Here's a video demonstration:
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/K80JfZgXPwM" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/K80JfZgXPwM" frameborder="0" allowfullscreen iv_load_policy="1"></iframe>
 
