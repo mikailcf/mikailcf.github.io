@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: "Runner (WIP)"
-type: ball
+type: runner
 ---
 
 ### Intro

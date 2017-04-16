@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: "Platformer (WIP)"
-type: light
+type: platformer
 ---
 
 ### Intro
