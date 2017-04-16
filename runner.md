@@ -26,9 +26,10 @@ I'm only using SpriteKit so I don't have to write the OpenGL for everything, but
 What's done so far:
 
 - simple level generation
-- sprite-based tiles as well as player's simple animation
+- sprite-based tiles
+- simple sprite animation
 - smooth camera following for the character
 
 Here's a video demonstrating the current features:
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/B4Klspk-7jc" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/VIjTjPErQ3k" frameborder="0" allowfullscreen></iframe>
